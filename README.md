@@ -30,7 +30,7 @@ private readonly Student _maxime = new Student
 <br />
 
 ### Stats
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urboholic&show_icons=true&theme=onedark )
+![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urboholic&show_icons=true&theme=moltack  )
 
 
 
