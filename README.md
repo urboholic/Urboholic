@@ -8,19 +8,18 @@ private readonly Student _maxime = new Student
 {
   pronouns = "he" | "him",
   studying = "computer science and engineering"
-  code = {"C", "C#", "Haskell", "MySql"},
+  code = {"C#", "C", "Haskell", "MySql"},
   tools = {"Git", "Docker"},
-  architecture = {"microservices", "event-driven", "design system pattern"},
-  non_coding_interests = new hobby
+  non_coding_interests = new Hobby
   {
         Magic = true,
-        guitar = true, 
-        piano = true,
-        sewing = true,
-        plants = true,
-        chess = true
+        Guitar = true, 
+        Piano = true,
+        Wewing = true,
+        Plants = true,
+        Chess = true
   }
- challenge: "Currently "
+ challenge = "Currently attempting to refactor my life to be as efficient as my code, but i keep getting stuck in infinite loops at the grocery store and segmentation faults in my social life."
 }
 ```
 
