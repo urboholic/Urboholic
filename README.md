@@ -10,16 +10,17 @@ private readonly Student _maxime = new Student
 {
   pronouns = "he" | "him",
   studying = "computer science and engineering"
-  code = {"C#", "C", "Haskell", "MySql"},
-  tools = {"Git", "Docker"},
+  Programming languages = {"C#", "C", "VHDL", "JS", "TS", "Python", "Haskell", "MySql"},
+  tools = {"Git", "Docker", "ModelSim", "Quartus®", "STM32CubeIDE", "Altium Designer"},
+  languages = {"Swedish", "Danish", "English"},
   non_coding_interests = new Hobby
   {
-        Magic = true,
         Guitar = true, 
         Piano = true,
-        Wewing = true,
+        Sewing = true,
         Plants = true,
-        Chess = true
+        Chess = true,
+        Gym = true
   }
  challenge = "Currently attempting to refactor my life to be as efficient as my code, but i keep getting stuck in infinite loops at the grocery store and segmentation faults in my social life."
 }
