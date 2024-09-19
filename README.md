@@ -10,7 +10,7 @@ private readonly Student _maxime = new Student
 {
   pronouns = "he" | "him",
   studying = "computer science and engineering"
-  Programming languages = {"C#", "C", "VHDL", "JS", "TS", "Python", "Haskell", "MySql"},
+  Programming_languages = {"C#", "C", "VHDL", "JS", "TS", "Python", "Haskell", "MySql"},
   tools = {"Git", "Docker", "ModelSim", "Quartus®", "STM32CubeIDE", "Altium Designer"},
   languages = {"Swedish", "Danish", "English"},
   non_coding_interests = new Hobby
